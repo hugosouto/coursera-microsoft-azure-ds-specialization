@@ -6,11 +6,11 @@ Each folder in the root directory corresponds to a course in the specialization.
 
 ## Courses
 
-- [Course 1: Create Machine Learning Models in Microsoft Azure](./course-create-ml-models-in-azure)
-- [Course 2: Microsoft Azure Machine Learning for Data Scientists](./course-azure-ml-for-ds)
-- [Course 3: Build and Operate Machine Learning Solutions with Azure](./course-build-and-operate-ml-solutions)
-- [Course 4: Perform data science with Azure Databricks](./course-perform-ds-with-azure-databricks)
-- [Course 5: Prepare for DP-100: Data Science on Microsoft Azure Exam](./course-prepare-for-dp-100)
+- [Course 1: Create Machine Learning Models in Microsoft Azure](./1-create-ml-models-in-azure)
+- [Course 2: Microsoft Azure Machine Learning for Data Scientists](./2-azure-ml-for-ds)
+- [Course 3: Build and Operate Machine Learning Solutions with Azure](./3-build-and-operate-ml-solutions)
+- [Course 4: Perform data science with Azure Databricks](./4-perform-ds-with-azure-databricks)
+- [Course 5: Prepare for DP-100: Data Science on Microsoft Azure Exam](./5-prepare-for-dp-100)
 
 ## Installation
 
